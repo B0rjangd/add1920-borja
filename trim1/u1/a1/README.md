@@ -6,17 +6,6 @@
 ![Windows](img/c1.png)
 
 
-
-    
-
-
-
-
-
-
-
-
-
 * 4.1 Comprobación
 
 ![OpenSUSE](img/2.png)
