@@ -1,6 +1,7 @@
 <h1> Introducción VNC </h1>
 <h2>Comprobaciones</h2>
-![Windows](img/1.ong)
+
+![Windows](img/c1.png)
 
 <p> </p>
 
