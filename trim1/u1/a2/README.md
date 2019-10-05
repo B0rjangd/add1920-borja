@@ -80,6 +80,6 @@ Vamos a crear una restricción de uso del SSH para un usuario. Para ello modific
 
 ![](img/35.png)
 
-Procedemo entrar con el usuario al que se le ha creado la restricción:
+Procedemos a entrar con el usuario al que se le ha creado la restricción:
 
 ![](img/36.png)
