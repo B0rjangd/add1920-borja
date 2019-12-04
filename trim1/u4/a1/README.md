@@ -18,11 +18,17 @@
 ![](img/4.png)
 
 * Usuario Mazinger
+
  ![](img/5.png)
 
 * Usuario Koji
+
 ![](img/6.png)
+
 * Usuario Boss
+
 ![](img/7.png)
+
 * Usuario Doctor Infierno
+
 ![](img/8.png)
