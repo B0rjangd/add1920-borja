@@ -15,14 +15,14 @@
 
 ## 4.3 Comprobar los usuarios creados
 * Ir a la MV cliente LDAP
-  ![](img/4.png)
+![](img/4.png)
 
 * Usuario Mazinger
-  ![](img/5.png)
+ ![](img/5.png)
 
 * Usuario Koji
-  ![](img/6.png)
+![](img/6.png)
 * Usuario Boss
-  ![](img/7.png)
+![](img/7.png)
 * Usuario Doctor Infierno
-  ![](img/8.png)
+![](img/8.png)
