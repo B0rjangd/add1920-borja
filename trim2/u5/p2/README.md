@@ -66,6 +66,6 @@ end
 
 ![](img/4.png)
 
-- Comprbación
+- Comprobación
 
 ![](img/3.png)
