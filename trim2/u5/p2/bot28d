@@ -1,0 +1,27 @@
+#!/usr/bin/env ruby
+	
+require 'telegram/bot'
+	
+# token:
+# 1. Write your TOKEN value into "token" variable or
+# 2. Create a local file "hiden.token" with your TOKEN value inside
+token = `cat /etc/bot28/token/hide.token`.strip
+bot_username = '@Bot_borja28'
+	
+puts "[INFO] Running bot #{$0}..."
+puts "       token => #{token}"
+	
+Telegram::Bot::Client.run(token) do |bot|
+  bot.listen do |message|
+    puts " => #{message.text}"
+		if message.text == "/hello"
+	  	bot.api.send_message(chat_id: message.chat.id, text: "Hello Word!")
+		elsif message.text == "/byebye"
+	  	bot.api.send_message(chat_id: message.chat.id, text: "Bye bye!")
+		elsif message.text == "/ping"
+			ping = `ping -c 4 8.8.8.8`
+			bot.api.send_message(chat_id: message.chat.id, text: ping)
+	
+		end
+  end
+end
