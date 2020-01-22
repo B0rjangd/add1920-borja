@@ -34,7 +34,7 @@ end
 
  - URL vídeo Youtube donde se muestre el Bot en funcionamiento.
 
- https://www.youtube.com/watch?v=6MaTriGeAp8
+https://www.youtube.com/watch?v=Qo-BVxJffeA
 
 ## 2.4 Entrega
 
